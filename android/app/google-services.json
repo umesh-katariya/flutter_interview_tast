@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67563122424",
+    "project_id": "flutter-interview-task-15fb3",
+    "storage_bucket": "flutter-interview-task-15fb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67563122424:android:26a118f7338e8cbc33d50d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_interview_tast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5e9RMBlcXTfQ7Tt9KxmLXi3ZLbkPtmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

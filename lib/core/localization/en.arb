@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appTitle": "User List",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "logout": "Logout",
+  "language": "Language",
+  "lightTheme": "Light Theme",
+  "darkTheme": "Dark Theme",
+  "searchUser": "Search user",
+  "noInternet": "No internet connection",
+  "retry": "Retry",
+  "users": "Users",
+  "details": "Details",
+  "authenticationFailedResponseMsg": "Authentication Failed",
+  "noDataFound": "No Data Found",
+  "userDetails": "User Details"
+}

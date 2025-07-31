@@ -1,0 +1,19 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تطبيق قائمة المستخدمين",
+  "login": "تسجيل الدخول",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "logout": "تسجيل الخروج",
+  "language": "اللغة",
+  "lightTheme": "الوضع الفاتح",
+  "darkTheme": "الوضع الداكن",
+  "searchUser": "ابحث عن مستخدم",
+  "noInternet": "لا يوجد اتصال بالإنترنت",
+  "retry": "إعادة المحاولة",
+  "users": "المستخدمين",
+  "details": "تفاصيل",
+  "authenticationFailedResponseMsg": "فشل المصادقة",
+  "noDataFound": "لم يتم العثور على بيانات",
+  "userDetails": "تفاصيل المستخدم"
+}
