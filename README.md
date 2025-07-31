@@ -31,6 +31,7 @@ Riverpod's provider system cleanly separates concerns and simplifies dependency 
 
 ## 📁 Folder Structure
 
+```text
 lib/
 ├── core/
 │   ├── localization/         # ARB files, AppLocalizations, locale logic
@@ -53,7 +54,7 @@ lib/
 │       └── viewmodels/       # UserViewModel
 ├── main.dart                 # App root with localization, theming
 └── router                    # go_router navigation setup
-
+```
 
 ## 🌍 Localization
 
